@@ -707,6 +707,14 @@ h3.tit {
 	background-color: #a7a7a7;
 }
 
+.learn-more {
+	color: #fff !important;
+}
+
+.learn-more:hover {
+	text-decoration : none;
+}
+
 .main-technical {
 	padding: 30px;
 	background-color: #efefef;
@@ -813,6 +821,10 @@ h3.tit {
 
 .progress-c.orange .bar {
 	border-color: #e67e22;
+}
+
+.progress-c.purple .bar {
+	border-color: #9b59b6;
 }
 
 .progress-c + .text {
